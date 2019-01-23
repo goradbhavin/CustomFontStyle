@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CustomFontStyle</string>
+    <string name="string_msg">
+        In android, you can define your own custom fonts for the strings in your application.
+        You just need to download the required font from the internet, and then place it in assets/fonts folder.
+        After putting fonts in the assets folder under fonts folder, you can access it in your java code through
+        Typeface class. First , get the reference of the text view in the code.</string>
+
+    <string-array name="font_name">
+        <item>-- Select Fonts Style--</item>
+        <item>Crochet Pattern</item>
+        <item>DroidSans</item>
+        <item>DroidSans Bold</item>
+        <item>Montserrat Regular</item>
+        <item>Recognition</item>
+    </string-array>
+</resources>
